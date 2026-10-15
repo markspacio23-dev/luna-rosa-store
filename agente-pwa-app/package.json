@@ -1,0 +1,14 @@
+{
+  "name": "agente-pwa-app",
+  "version": "1.0.0",
+  "description": "App PWA moderna para Agente de IA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.24.0",
+    "dotenv": "^18.0.3",
+    "express": "^5.2.1"
+  }
+}

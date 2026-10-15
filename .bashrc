@@ -1,0 +1,1 @@
+export ALPHAGENOME_API_KEY="tu_api_key_real"
