@@ -1,8 +1,0 @@
-[package]
-name = "mbarete_code"
-version = "0.4.0"
-edition = "2021"
-authors = ["Marcos Antonio Rojas Cuevas <marcos93@paraguay>"]
-description = "Editor de código TUI soberano y de alto rendimiento para Termux."
-
-[dependencies]

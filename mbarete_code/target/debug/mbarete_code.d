@@ -1,1 +1,0 @@
-/data/data/com.termux/files/home/mbarete_code/target/debug/mbarete_code: /data/data/com.termux/files/home/mbarete_code/src/editor.rs /data/data/com.termux/files/home/mbarete_code/src/main.rs /data/data/com.termux/files/home/mbarete_code/src/storage.rs

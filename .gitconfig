@@ -1,7 +1,0 @@
-[init]
-	defaultBranch = main
-[user]
-	email = tu_correo@dominio.com
-	name = markspacio23-dev
-[credential]
-	helper = store
